@@ -1,0 +1,6 @@
+szerokość podstawy kamerki - 8mm
+pierwsze okrągłe - 8mm
+drugie okrągłe - 7mm
+PIR - 32,5 x 29 [mm]
+OLED - 26 x 26 [mm]
+szerokość wejść USB - 20mm

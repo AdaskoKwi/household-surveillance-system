@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ESP Mobile App</string>
+    <string name="screen_title_bluetooth">Bluetooth</string>
+    <string name="screen_title_wifi">Wifi</string>
+    <string name="screen_title_main">Główny ekran</string>
+    <string name="reload_photo">Odśwież zdjęcie</string>
+    <string name="motion_alert_title">Wykryto ruch!</string>
+    <string name="motion_alert_description">ESP32 wykryło ruch!</string>
+    <string name="motion_motification_channel_name">Alerty ruchu</string>
+    <string name="motion_notification_channel_description">Powiadomienie o wykryciu ruchu przez ESP32</string>
+    <string name="waiting_for_photo">Oczekiwanie na zdjęcie...</string>
+    <string name="wifi_connection_error">Błąd połączenia z ESP32</string>
+    <string name="save_photo">Zapisz w galerii</string>
+    <string name="connected">Połączono</string>
+    <string name="disconnected">Brak połączenia</string>
+    <string name="saved">Zapisano zdjęcie!</string>
+    <string name="no_photo_to_save">Brak zdjęcia do zapisania!</string>
+    <string name="enabled_permissions">Przyznano pozwolenia!</string>
+    <string name="disabled_permissions">Nie przyznano pozwoleń!</string>
+</resources>
